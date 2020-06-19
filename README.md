@@ -10,7 +10,7 @@ https://www.comdirect.de/inf/aktien/topflop/topflop.html?ID_NOTATION_INDEX=20735
 * import time
 * import pandas as pd
 
-# The results looks similar to this:
+# The results look similar to this:
 
 
 ## BEST PERFORMER Dax Today
