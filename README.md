@@ -13,11 +13,11 @@ The results looks similar to this:
 
 Index | Name | Change | Price 
 ------------ | -------------|-------------|-------------
-|0                        BASF|   +1,89 %|     54,01
-|1            COVESTRO AG O.N.|   +1,61 %|     33,48
-|2                  Vonovia SE|   +1,25 %|     55,14
-|3       Infineon Technologies|   +0,92 %|    20,315
-|4              Münchener Rück|   +0,70 %|    228,70
+|0|                        BASF|   +1,89 %|     54,01
+|1|            COVESTRO AG O.N.|   +1,61 %|     33,48
+|2|                  Vonovia SE|   +1,25 %|     55,14
+|3|       Infineon Technologies|   +0,92 %|    20,315
+|4|              Münchener Rück|   +0,70 %|    228,70
 
 ## WORST PERFORMER
 
