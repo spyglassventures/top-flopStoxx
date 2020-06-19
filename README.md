@@ -24,8 +24,8 @@ Index | Name | Change | Price
 
 Index | Name | Change | Price 
 ------------ | -------------|-------------|-------------
-|25               Volkswagen VZ|   -1,16 %|    132,58
-|26               DEUTSCHE BANK|   -2,05 %|     8,263
-|27                   HENKEL Vz|   -2,98 %|     82,62
-|28          DEUTSCHE LUFTHANSA|   -4,01 %|     9,868
-|29                    WIRECARD|  -61,82 %|     39,90
+|25|               Volkswagen VZ|   -1,16 %|    132,58
+|26|               DEUTSCHE BANK|   -2,05 %|     8,263
+|27|                   HENKEL Vz|   -2,98 %|     82,62
+|28|          DEUTSCHE LUFTHANSA|   -4,01 %|     9,868
+|29|                    WIRECARD|  -61,82 %|     39,90
