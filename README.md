@@ -27,7 +27,7 @@ Index | Name | Change | Price
 |28|          DEUTSCHE LUFTHANSA|   -4,01 %|     9,868
 |29|                    WIRECARD|  -61,82 %|     39,90
 
-## BEST PERFORMER DAX Today
+## BEST PERFORMER SMI Today
 Index | Name | Change | Price 
 ------------ | -------------|-------------|-------------
 |0|                  SWISSCOM N|   +1,28 %|    499,90
