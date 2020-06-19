@@ -6,11 +6,11 @@ Finally its writes the result into a.txt file
 https://www.comdirect.de/inf/aktien/topflop/topflop.html?ID_NOTATION_INDEX=20735&TIME_SPAN=INTRADAY
 
 #### Libaries used:
-from selenium import webdriver
-import time
-import pandas as pd
+* from selenium import webdriver
+* import time
+* import pandas as pd
 
-The results looks similar to this:
+## The results looks similar to this:
 
 ## BEST PERFORMER Dax Today
 Index | Name | Change | Price 
