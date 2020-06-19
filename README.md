@@ -18,7 +18,7 @@ Index | Name | Change | Price
 |3|       Infineon Technologies|   +0,92 %|    20,315
 |4|              Münchener Rück|   +0,70 %|    228,70
 
-## WORST PERFORMER Dax Today
+## WORST PERFORMER DAX Today
 Index | Name | Change | Price 
 ------------ | -------------|-------------|-------------
 |25|               Volkswagen VZ|   -1,16 %|    132,58
@@ -27,10 +27,7 @@ Index | Name | Change | Price
 |28|          DEUTSCHE LUFTHANSA|   -4,01 %|     9,868
 |29|                    WIRECARD|  -61,82 %|     39,90
 
-
-
-
-## BEST PERFORMER Smi Today
+## BEST PERFORMER DAX Today
 Index | Name | Change | Price 
 ------------ | -------------|-------------|-------------
 |0|                  SWISSCOM N|   +1,28 %|    499,90
@@ -39,7 +36,7 @@ Index | Name | Change | Price
 |3|                       SGS N|   +0,87 %|  2.312,00
 |4|                     Sika AG|   +0,68 %|    184,30
 
-## WORST PERFORMER Smi Today
+## WORST PERFORMER SMI Today
 Index | Name | Change | Price 
 ------------ | -------------|-------------|-------------
 |15|               LafargeHolcim|   -0,60 %|     41,65
