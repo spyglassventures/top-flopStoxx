@@ -12,7 +12,8 @@ The results looks similar to this:
 ## BEST PERFORMER
 
 Index | Name | Change | Price 
- -------------|-------------|-------------
+
+------------ | -------------|-------------|-------------
 |0                        BASF|   +1,89 %|     54,01
 |1            COVESTRO AG O.N.|   +1,61 %|     33,48
 |2                  Vonovia SE|   +1,25 %|     55,14
@@ -21,8 +22,9 @@ Index | Name | Change | Price
 
 ## WORST PERFORMER
 
+
 Index | Name | Change | Price 
- -------------|-------------|------------- 
+------------ | -------------|-------------|-------------
 |25               Volkswagen VZ|   -1,16 %|    132,58
 |26               DEUTSCHE BANK|   -2,05 %|     8,263
 |27                   HENKEL Vz|   -2,98 %|     82,62
