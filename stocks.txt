@@ -1,0 +1,225 @@
+test
+
+BEST PERFORMER
+  ___________________________ _________ _________
+0                        BASF   +1,89 %     54,01
+1            COVESTRO AG O.N.   +1,61 %     33,48
+2                  Vonovia SE   +1,25 %     55,14
+3       Infineon Technologies   +0,92 %    20,315
+4              Münchener Rück   +0,70 %    228,70
+
+WORST PERFORMER
+   ___________________________ _________ _________
+25               Volkswagen VZ   -1,16 %    132,58
+26               DEUTSCHE BANK   -2,05 %     8,263
+27                   HENKEL Vz   -2,98 %     82,62
+28          DEUTSCHE LUFTHANSA   -4,01 %     9,868
+29                    WIRECARD  -61,82 %     39,90
+
+BEST PERFORMER
+  ___________________________ _________ _________
+0                     Zalando   +7,14 %     64,50
+1                 Rheinmetall   +2,49 %     77,42
+2             Deutsche Wohnen   +2,21 %     41,16
+3                     Lanxess   +1,96 %     47,92
+4          SCOUT24 AG NA O.N.   +1,62 %     69,00
+
+WORST PERFORMER
+   ___________________________ _________ _________
+35          CompuGroup Medical   -0,51 %     68,45
+36                 OSRAM Licht   -0,52 %     41,87
+37                    Metro AG   -0,58 %     8,508
+38    KNORR-BREMSE AG INH O.N.   -0,68 %     95,31
+39                   MorphoSys   -0,99 %    110,30
+
+BEST PERFORMER
+  ___________________________ _________ _________
+0                        BASF   +1,89 %     54,01
+1              Münchener Rück   +0,70 %    228,70
+2                   FRESENIUS   +0,68 %     44,41
+3                      KERING   +0,59 %    510,00
+4          LINDE PLC EO 0,001   +0,40 %    186,45
+
+WORST PERFORMER
+   ___________________________ _________ _________
+35                       NOKIA   -0,88 %     3,903
+36                     CRH PLC   -0,93 %     32,02
+37             INTESA SANPAOLO   -1,06 %    1,6858
+38               Volkswagen VZ   -1,16 %    132,58
+39                     Vivendi   -1,43 %     22,77
+
+BEST PERFORMER
+  ___________________________ _________ _________
+0                      Befesa   +3,07 %     33,55
+1                  SUEDZUCKER   +2,96 %     14,28
+2   SHOP APOTHEKE EUROPE INH.   +2,70 %     95,00
+3                    Stabilus   +2,56 %     46,48
+4         CEWE Stiftung & Co.   +2,31 %     97,30
+
+WORST PERFORMER
+   ___________________________ _________ _________
+35                      Krones   -0,43 %     57,60
+36              Koenig & Bauer   -0,52 %     18,95
+37                 SAF-HOLLAND   -0,64 %     5,445
+38               INDUS Holding   -0,68 %     29,05
+39              Hamborner REIT   -0,73 %     8,656
+
+BEST PERFORMER
+  ___________________________ _________ _________
+0         Schoeller-Bleckmann   +2,47 %     27,00
+1                   VERBUND A   +2,17 %     40,46
+2                 BAWAG GROUP   +1,79 %     30,70
+3                      S Immo   +1,67 %     17,06
+4         Mayr-Melnhof Karton   +1,56 %    130,60
+
+WORST PERFORMER
+   ___________________________ _________ _________
+15                  Immofinanz   -0,98 %     16,12
+16                 VOESTALPINE   -1,15 %     19,81
+17        VIENNA INSURANCE GRP   -1,19 %     19,96
+18            ERSTE GROUP BANK   -2,22 %     22,00
+19                         OMV   -3,86 %     30,38
+
+BEST PERFORMER
+  ___________________________ _________ _________
+0          STMicroelectronics   +1,54 %     24,37
+1                      Sodexo   +0,76 %     63,78
+2                   Worldline   +0,75 %     72,60
+3                      KERING   +0,59 %    510,00
+4                      Danone   +0,28 %     63,52
+
+WORST PERFORMER
+   ___________________________ _________ _________
+35                   Carrefour   -2,42 %     13,93
+36                Airbus Group   -2,77 %     67,82
+37             Michelin (CGDE)   -2,99 %     88,82
+38         WFD Unibail Rodamco   -3,28 %     56,10
+39               ArcelorMittal   -5,75 %      9,39
+
+BEST PERFORMER
+  ___________________________ _________ _________
+0                  SWISSCOM N   +1,28 %    499,90
+1                    Givaudan   +1,20 %  3.461,00
+2                Swatch Group   +1,20 %    194,30
+3                       SGS N   +0,87 %  2.312,00
+4                     Sika AG   +0,68 %    184,30
+
+WORST PERFORMER
+   ___________________________ _________ _________
+15               LafargeHolcim   -0,60 %     41,65
+16                    ROCHE GS   -0,62 %    337,45
+17                   LONZA GRP   -0,69 %    491,60
+18             Swiss Life Hldg   -0,73 %    355,40
+19                      Nestle   -1,00 %    106,84
+
+BEST PERFORMER
+  ___________________________ _________ _________
+0                        BASF   +1,89 %     54,01
+1            COVESTRO AG O.N.   +1,61 %     33,48
+2                  Vonovia SE   +1,25 %     55,14
+3       Infineon Technologies   +0,92 %    20,315
+4              Münchener Rück   +0,70 %    228,70
+
+WORST PERFORMER
+   ___________________________ _________ _________
+25               Volkswagen VZ   -1,16 %    132,58
+26               DEUTSCHE BANK   -2,05 %     8,263
+27                   HENKEL Vz   -2,98 %     82,62
+28          DEUTSCHE LUFTHANSA   -4,01 %     9,868
+29                    WIRECARD  -61,82 %     39,90
+
+BEST PERFORMER
+  ___________________________ _________ _________
+0                     Zalando   +7,14 %     64,50
+1                 Rheinmetall   +2,49 %     77,42
+2             Deutsche Wohnen   +2,21 %     41,16
+3                     Lanxess   +1,96 %     47,92
+4          SCOUT24 AG NA O.N.   +1,62 %     69,00
+
+WORST PERFORMER
+   ___________________________ _________ _________
+35          CompuGroup Medical   -0,51 %     68,45
+36                 OSRAM Licht   -0,52 %     41,87
+37                    Metro AG   -0,58 %     8,508
+38    KNORR-BREMSE AG INH O.N.   -0,68 %     95,31
+39                   MorphoSys   -0,99 %    110,30
+
+BEST PERFORMER
+  ___________________________ _________ _________
+0                        BASF   +1,89 %     54,01
+1              Münchener Rück   +0,70 %    228,70
+2                   FRESENIUS   +0,68 %     44,41
+3                      KERING   +0,59 %    510,00
+4          LINDE PLC EO 0,001   +0,40 %    186,45
+
+WORST PERFORMER
+   ___________________________ _________ _________
+35                       NOKIA   -0,88 %     3,903
+36                     CRH PLC   -0,93 %     32,02
+37             INTESA SANPAOLO   -1,06 %    1,6858
+38               Volkswagen VZ   -1,16 %    132,58
+39                     Vivendi   -1,43 %     22,77
+
+BEST PERFORMER
+  ___________________________ _________ _________
+0                      Befesa   +3,07 %     33,55
+1                  SUEDZUCKER   +2,96 %     14,28
+2   SHOP APOTHEKE EUROPE INH.   +2,70 %     95,00
+3                    Stabilus   +2,56 %     46,48
+4         CEWE Stiftung & Co.   +2,31 %     97,30
+
+WORST PERFORMER
+   ___________________________ _________ _________
+35                      Krones   -0,43 %     57,60
+36              Koenig & Bauer   -0,52 %     18,95
+37                 SAF-HOLLAND   -0,64 %     5,445
+38               INDUS Holding   -0,68 %     29,05
+39              Hamborner REIT   -0,73 %     8,656
+
+BEST PERFORMER
+  ___________________________ _________ _________
+0         Schoeller-Bleckmann   +2,47 %     27,00
+1                   VERBUND A   +2,17 %     40,46
+2                 BAWAG GROUP   +1,79 %     30,70
+3                      S Immo   +1,67 %     17,06
+4         Mayr-Melnhof Karton   +1,56 %    130,60
+
+WORST PERFORMER
+   ___________________________ _________ _________
+15                  Immofinanz   -0,98 %     16,12
+16                 VOESTALPINE   -1,15 %     19,81
+17        VIENNA INSURANCE GRP   -1,19 %     19,96
+18            ERSTE GROUP BANK   -2,22 %     22,00
+19                         OMV   -3,86 %     30,38
+
+BEST PERFORMER
+  ___________________________ _________ _________
+0          STMicroelectronics   +1,54 %     24,37
+1                      Sodexo   +0,76 %     63,78
+2                   Worldline   +0,75 %     72,60
+3                      KERING   +0,59 %    510,00
+4                      Danone   +0,28 %     63,52
+
+WORST PERFORMER
+   ___________________________ _________ _________
+35                   Carrefour   -2,42 %     13,93
+36                Airbus Group   -2,77 %     67,82
+37             Michelin (CGDE)   -2,99 %     88,82
+38         WFD Unibail Rodamco   -3,28 %     56,10
+39               ArcelorMittal   -5,75 %      9,39
+
+BEST PERFORMER
+  ___________________________ _________ _________
+0                  SWISSCOM N   +1,28 %    499,90
+1                    Givaudan   +1,20 %  3.461,00
+2                Swatch Group   +1,20 %    194,30
+3                       SGS N   +0,87 %  2.312,00
+4                     Sika AG   +0,68 %    184,30
+
+WORST PERFORMER
+   ___________________________ _________ _________
+15               LafargeHolcim   -0,60 %     41,65
+16                    ROCHE GS   -0,62 %    337,45
+17                   LONZA GRP   -0,69 %    491,60
+18             Swiss Life Hldg   -0,73 %    355,40
+19                      Nestle   -1,00 %    106,84
