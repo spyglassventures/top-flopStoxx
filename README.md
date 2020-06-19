@@ -1,13 +1,16 @@
 # top-flopStoxx
-This file scraps the stock market and returns the top 5 and bottom 5 stocks.
+This file scrapes the stock market and returns the top 5 and bottom 5 stocks.
 Finally its writes the result into a.txt file
 
-Data Source:
+### Data Source:
 https://www.comdirect.de/inf/aktien/topflop/topflop.html?ID_NOTATION_INDEX=20735&TIME_SPAN=INTRADAY
 
+#### Libaries used:
+from selenium import webdriver
+import time
+import pandas as pd
 
 The results looks similar to this:
-
 
 ## BEST PERFORMER Dax Today
 Index | Name | Change | Price 
