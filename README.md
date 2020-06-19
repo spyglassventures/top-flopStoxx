@@ -12,7 +12,6 @@ The results looks similar to this:
 ## BEST PERFORMER
 
 Index | Name | Change | Price 
-
 ------------ | -------------|-------------|-------------
 |0                        BASF|   +1,89 %|     54,01
 |1            COVESTRO AG O.N.|   +1,61 %|     33,48
